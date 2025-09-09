@@ -17,6 +17,7 @@
     "ip":"0.0.0.0",
     "mycatId":1,
     "port":8066,
+    "serverVersion": "8.0.33-mycat-2.0",
     "reactorNumber":8,
     "tempDirectory":null,
     "timeWorkerPool":{
